@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nlNQ/YJI7wOVmJxEbBzQbl7xEJF1vIuigVeXgtMHcPnK5DcxpMom0uK2rvC1mhr1/VykKGl6PeT3yFic25CQ1g==",
+  "dgSpecHash": "WISY6cyB9s99UfM8edQlzhoEce9IKXdN2ms5HGwYI3sYSaLvL+02VEnZDFyghuyzhSwxYWJ80urxsBXyOUaXCg==",
   "success": true,
   "projectFilePath": "D:\\.Net Udemy\\MicroserviceTienda\\TiendaServicios3\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.0\\npgsql.entityframeworkcore.postgresql.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
