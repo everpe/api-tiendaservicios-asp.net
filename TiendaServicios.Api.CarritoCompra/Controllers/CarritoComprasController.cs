@@ -5,7 +5,7 @@ using TiendaServicios.Api.CarritoCompra.Aplicacion;
 
 namespace TiendaServicios.Api.CarritoCompra.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class CarritoComprasController : ControllerBase
     {

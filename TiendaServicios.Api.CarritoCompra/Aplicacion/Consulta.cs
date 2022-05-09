@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
 using TiendaServicios.Api.CarritoCompra.Persistencia;
 using TiendaServicios.Api.CarritoCompra.RemoteInterface;
 
@@ -34,16 +35,14 @@ namespace TiendaServicios.Api.CarritoCompra.Aplicacion
 
                     //Lista de Libros para CarritoDto se llena de la Consulta a LibroMicroservice
                     var listadoCarritoDto = new List<CarritoDetalleDto>();
-                    foreach(var libro in carsSesionDetalle)
+         
+                    foreach (var libro in carsSesionDetalle)
                     {
                         var responseLibro = await _libroService.GetLibro(new Guid(libro.ProductoSeleccionado));
-                        _logger.LogInformation("Hola Mundo Cruell:::");
+                        _logger.LogInformation(" *** ResponseLibro ***" + JsonSerializer.Serialize(responseLibro));
                         if (responseLibro.resultado)
                         {
                             var objetoLibro = responseLibro.libro;
-                            _logger.LogInformation("Hola1 Mundo Cruell:::");
-                            _logger.LogInformation("Hola2 Mundo Cruell:::");
-                            _logger.LogInformation("Hola3 Mundo Cruell:::");
                             var carritoDetalleDto = new CarritoDetalleDto
                             {
                                 TituloLibro = objetoLibro.Titulo,

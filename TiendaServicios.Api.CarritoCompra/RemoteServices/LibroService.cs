@@ -21,6 +21,7 @@ namespace TiendaServicios.Api.CarritoCompra.RemoteServices
                 //Servicio que se agregó en Program.cs
                 var cliente = _httpClient.CreateClient("Libros");
                 var response = await cliente.GetAsync($"api/Libro/GetBookById/{LibroId}");
+                //_logger.LogInformation("****  LibroService *** 333" + JsonSerializer.Serialize(response));
                 if (response.IsSuccessStatusCode) {
                     //Valor de libro response
                     var contenido = await response.Content.ReadAsStringAsync(); 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FcPC+OZdP6LadC223qL7BrS3I6E9cFDj5p5Amb/bFlyGccOVhpbtrb1jX9fsnqzblHhb5/zvn1XEjXYIb1fFSg==",
+  "dgSpecHash": "jHbanJ3wn+P6fDARFrRWOl02My4Ba2JXCjCknS0HI6krlZlg2VgnqjLmBRXPMsrKmWSCToxq6XScUGYpOXn4KA==",
   "success": true,
   "projectFilePath": "D:\\.Net Udemy\\MicroserviceTienda\\TiendaServicios3\\Tienda.Servicios.Api.Libro.Test\\TiendaServicios.Api.Libro.Test.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

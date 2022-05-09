@@ -1,0 +1,34 @@
+name: dockercompose12501968860632816353
+services:
+  tiendaservicios.api.autor:
+    build:
+      context: D:\.Net Udemy\MicroserviceTienda\TiendaServicios3
+      dockerfile: TiendaServicios.Api.Autor/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: tiendaserviciosapiautor
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "6104"
+      protocol: tcp
+  tiendaservicios.api.libro:
+    build:
+      context: D:\.Net Udemy\MicroserviceTienda\TiendaServicios3
+      dockerfile: TiendaServicios.Api.Libro/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: tiendaserviciosapilibro
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "6105"
+      protocol: tcp
+networks:
+  default:
+    name: microservicenet
+    external: true

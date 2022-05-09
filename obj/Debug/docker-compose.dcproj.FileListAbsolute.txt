@@ -24,3 +24,16 @@ D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Libro.deps.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Libro.runtimeconfig.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Libro.exe
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Libro.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.Identity.Client.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Libro.pdb
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.deps.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.exe
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.pdb

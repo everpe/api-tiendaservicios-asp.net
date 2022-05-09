@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "igPB4m8TLAVqgBxhpFxsPJHChMXyIKghNZpRPAad5rdIEbO1m5U/kHW1cnY31KnGGlpnWduxp+OrA1I5R0oDrA==",
+  "dgSpecHash": "2CWTuEnQEN5rfssCUbAuP0TYXrSEWt8utCH+kFGOkJxRqrzgZ6JxDTVyLPQMWRwLnzYvrEtstDM8GkwUqhDBZQ==",
   "success": true,
   "projectFilePath": "D:\\.Net Udemy\\MicroserviceTienda\\TiendaServicios3\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\COMPUCENTER-DM\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
