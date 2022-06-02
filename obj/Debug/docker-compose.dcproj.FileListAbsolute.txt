@@ -37,3 +37,16 @@ D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.exe
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.dll
 D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.CarritoCompra.pdb
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Gateway.deps.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Gateway.runtimeconfig.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\ocelot.json
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Gateway.exe
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Gateway.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Ocelot.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Newtonsoft.Json.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\.Net Udemy\MicroserviceTienda\TiendaServicios3\bin\Debug\TiendaServicios.Api.Gateway.pdb

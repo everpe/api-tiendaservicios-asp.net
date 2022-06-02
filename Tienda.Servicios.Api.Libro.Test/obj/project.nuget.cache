@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jHbanJ3wn+P6fDARFrRWOl02My4Ba2JXCjCknS0HI6krlZlg2VgnqjLmBRXPMsrKmWSCToxq6XScUGYpOXn4KA==",
+  "dgSpecHash": "zJNZLobINVBLdgY6/lLPywbcjmfPe6PAIMzbbkSolydStzNPLyylnTcp6tkrfbyMuGhsrS/oiKQZIRZwRgpGpA==",
   "success": true,
   "projectFilePath": "D:\\.Net Udemy\\MicroserviceTienda\\TiendaServicios3\\Tienda.Servicios.Api.Libro.Test\\TiendaServicios.Api.Libro.Test.csproj",
   "expectedPackageFiles": [
